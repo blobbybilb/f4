@@ -1,3 +1,7 @@
+Paused, nothing in here currently makes using this more appealing than most other frameworks, but I plan to come back to it after implementing some ideas for why?framework libaries and DB layers.
+
+---
+
 # F4 - The Fast Friendly Functionality Framework
 
 The simplest fairly-featureful web framework. Currently works with the bun runtime only.
